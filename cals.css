@@ -1,0 +1,56 @@
+html
+{
+  width:auto;
+  height:auto;
+  margin: 2rem;
+  font-family: 'Pathway Gothic One', sans-serif;
+
+}
+body
+{
+  background:#00A779;
+  background-repeat:no-repeat;
+}
+input[type="button"]
+{
+    font-size:20;
+    color:#FF9C00;
+    width:70px;
+    height:70px;
+    padding:auto;
+    background:black;
+    border: 3px inset #46F9D1;
+}
+h1
+{
+  background:#48F9D1  ;
+  font-style: italic;
+  font-family: "Times New Roman", Georgia, Serif;
+  color:#ED002F;
+  text-align: center;
+  border: 5px outset #08082D;
+  margin-left: 30rem;
+  margin-right: 30rem;
+}
+#screen
+{
+  font-size:30;
+  color:#005081;
+  width:218px;
+  height:55px;
+}
+table
+{
+  background:red;
+  padding:10px;
+  width:auto;
+  height:auto;
+  border: 5px solid black;
+}
+#container
+{
+  width:auto;
+  height:auto;
+  margin-top:50px;
+  margin-bottom:auto;
+}
